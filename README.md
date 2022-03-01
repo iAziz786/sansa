@@ -1,2 +1,3 @@
 # sansa
-Backend for Arya
+
+An open-source Email Delivery Service. Working in progress...
